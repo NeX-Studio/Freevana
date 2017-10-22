@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nex-Studio/freevana.git"
+  },
+  "dependencies": {
+    "glob": "^7.1.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
